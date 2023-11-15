@@ -41,6 +41,7 @@ h2 {
   background-repeat: repeat-x;
   text-align: center;
   line-height: 1;
+  float: right;
 }
 
 .elixirs h2{
@@ -71,3 +72,6 @@ h2 {
   background: #f88396;
   color: #0d5353;
 }
+
+[!info]
+float: right;
