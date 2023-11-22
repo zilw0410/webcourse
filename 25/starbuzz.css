@@ -43,7 +43,9 @@ h1 {
   color:            #954b4b;
 }
 
-.slogan { color: #954b4b; }
+.slogan { 
+  color: #954b4b; 
+}
 
 .beanheading {
   text-align:       center;
@@ -69,4 +71,12 @@ div.tableContainer{
 div.talbeRow{
   display: table-row;
 }
+
+.drinks {
+  background-color: #efe5d0;
+  padding: 15px;
+  display: table-cell;
+  vertical-align: top;
+}
+
 
