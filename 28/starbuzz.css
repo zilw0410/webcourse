@@ -128,3 +128,9 @@ ul li a:link, nav ul li a:visited {
 ul li.selected {
 	background-color: #c8b99c;
 }
+
+nav ul {
+	margin: 0px;
+	list-style-type: none;
+	padding: 5px 0px 5px 0px;
+}
