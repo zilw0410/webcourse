@@ -33,4 +33,71 @@
   border-radius: 0.2em;
 }
 
+.su{
+  position: absolute;
+  left: 1280px;
+  top: 40px;
+  font-size: 15px;
+  border-left: 1px solid #6e6b6b;
+  padding-left: 10px;
+  border-right: 1px solid #6e6b6b;
+  padding-right: 10px;
+}
 
+.my{
+  position: absolute;
+  left: 1380px;
+  top: 40px;
+  font-size: 15px;
+}
+
+.pic1{
+position: relative;
+top: 60px;
+}
+
+.pic2{
+position: relative;
+top: 40px;
+left: 150px;
+}
+
+.pic3{
+position: relative;
+top: 20px;
+left: 250px;
+}
+
+.pic4{
+position: relative;
+top: 0px;
+left: 430px;
+}
+
+.pic5{
+position: relative;
+top: -20px;
+left: 580px;
+}
+
+.pic6{
+position: relative;
+top: -45px;
+left: 850px;
+}
+
+.pic7{
+position: relative;
+top: -65px;
+left: 1050px;
+}
+
+.pic8{
+position: relative;
+top: -85px;
+left: 1250px;
+}
+
+/* .two{
+list-style-type: none;
+} */
