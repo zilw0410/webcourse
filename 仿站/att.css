@@ -51,53 +51,64 @@
   font-size: 15px;
 }
 
-.pic1{
+.a{
 position: relative;
 top: 60px;
+left: 440px;
+font-weight: 500px;
 }
 
-.pic2{
+.q{
+/* font-size: 200px; */
 position: relative;
-top: 40px;
-left: 150px;
+left:0px;
+bottom:-10px;
 }
 
-.pic3{
+.b{
 position: relative;
-top: 20px;
-left: 250px;
+top: 5px;
+left: 535px;
 }
 
-.pic4{
+.w{
 position: relative;
-top: 0px;
-left: 430px;
+bottom: -30;
+left:50;
 }
 
-.pic5{
+.c{
 position: relative;
-top: -20px;
-left: 580px;
+top: -12px;
+left: 665px;
 }
 
-.pic6{
+.d{
 position: relative;
-top: -45px;
-left: 850px;
+top: -48px;
+left: 795px;
 }
 
-.pic7{
+.e{
 position: relative;
-top: -65px;
-left: 1050px;
+top: -84px;
+left: 925px;
 }
 
-.pic8{
+.f{
 position: relative;
-top: -85px;
-left: 1250px;
+top: -120px;
+left: 1065px;
 }
 
-/* .two{
+.g{
+position: relative;
+top: -156px;
+left: 1185px;
+}
+
+
+.two{
 list-style-type: none;
-} */
+} 
+
