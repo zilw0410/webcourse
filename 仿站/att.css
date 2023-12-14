@@ -157,11 +157,13 @@ color: #000;
 
 .two{
 list-style-type: none;
+position: relative;
+left: -110px;
 }
 
 .setence{
 position: relative;
-left: 580px;
+left: 560px;
 top:-270px;
 font-size: 17px;
 }
@@ -172,10 +174,40 @@ color: #2578c7;
 font-weight: bolder;
 }
 
-.a{
+.middle{
+font-size: 50px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+color: #fff;
+position: relative;
+top:-200px;
+left: 600px;
+z-index: 100;
+}
+
+.pic1{
+position: relative;
+z-index: 100;
+width: 450px;
+height:350px;
+left: 200px;
+top:-150px;
+border-radius: 1em;
+}
+
+.bj{
 max-width: 100%;
 max-height: 100%;
 position: relative;
-top:-250px;
+top:-650px;
 }
+
+.all{
+position: relative;
+z-index: 999;
+color: #fff;
+left: 230px;
+top:-100px;
+}
+
+
 
