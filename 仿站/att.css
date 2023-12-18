@@ -198,7 +198,7 @@ border-radius: 1em;
 max-width: 100%;
 max-height: 100%;
 position: relative;
-top:-650px;
+top:-810px;
 }
 
 .all{
@@ -206,7 +206,7 @@ position: relative;
 z-index: 999;
 color: #fff;
 left: 230px;
-top:-50px;
+top:40px;
 font-size: 13px;
 }
 
@@ -215,7 +215,7 @@ position: relative;
 z-index: 999;
 color: #fff;
 left: 230px;
-top: -40px;
+top: 50px;
 font-weight:bold;
 font-size: 20px;
 }
@@ -225,7 +225,7 @@ position: relative;
 z-index: 999;
 color: #fff;
 left: 230px;
-top:-30px;
+top:60px;
 font-size: 15px;
 }
 
@@ -234,7 +234,48 @@ position: relative;
 z-index: 999;
 color: #fff;
 left: 230px;
-top:-10px;
+top: 80px;
 font-size:10px;
 }
 
+.together{
+position: relative;
+top:-180px;
+}
+
+.off{
+text-decoration: underline;
+color: #fff;
+}
+
+.shop{
+position: relative;
+z-index: 999;
+left: 230px;
+top:100px;
+font-size: 15px;
+border:1px solid #fff;
+border-radius: 50px; 
+color: #094e8f;
+font-weight: bold;
+width: 180px;
+height: 45px;
+text-align:center;
+background-color: #fff;
+
+}
+
+.att{
+position: relative;
+top:12px;
+}
+
+.ip1{
+position: relative;
+z-index: 100;
+width: 350px;
+height:350px;
+left: 680px;
+top: -685px;
+border-radius: 1em;
+}
