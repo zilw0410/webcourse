@@ -206,8 +206,35 @@ position: relative;
 z-index: 999;
 color: #fff;
 left: 230px;
-top:-100px;
+top:-50px;
+font-size: 13px;
 }
 
+.toge{
+position: relative;
+z-index: 999;
+color: #fff;
+left: 230px;
+top: -40px;
+font-weight:bold;
+font-size: 20px;
+}
 
+.save{
+position: relative;
+z-index: 999;
+color: #fff;
+left: 230px;
+top:-30px;
+font-size: 15px;
+}
+
+.mo{
+position: relative;
+z-index: 999;
+color: #fff;
+left: 230px;
+top:-10px;
+font-size:10px;
+}
 
